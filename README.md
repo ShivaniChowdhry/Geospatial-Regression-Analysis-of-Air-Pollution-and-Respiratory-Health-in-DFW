@@ -24,7 +24,7 @@ Project Overview: This research project utilized spatial analysis techniques to 
 
 **Technical Skills Demonstrated:**
 
-Spatial Data Science
-GIS analysis with ArcGIS Pro
-Data integration and engineering with Tableau Prep
-Advanced statistical modeling with GLR and GWR
+* Spatial Data Science
+* GIS analysis & map creation with ArcGIS Pro
+* Data integration and engineering with EXCEL, Tableau Prep & ArcGIS 
+* Advanced statistical modeling with GLR and GWR in ArcGIS
